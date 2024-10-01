@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+theme: jekyll-theme-console
 plugins:
   - jekyll-feed
 
@@ -56,3 +56,5 @@ plugins:
 
 domain: scotdotwtf.github.io
 url: https://scotdotwtf.github.io
+
+remote_theme: b2a3e8/jekyll-theme-console
