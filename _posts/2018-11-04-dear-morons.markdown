@@ -1,12 +1,15 @@
 ---
 layout: post
-title:  "Dear morons..."
-date:   2018-11-04 12:32:45 +0100
-categories:
+title: "so i made a blog"
+date: 2024-10-02
+categories: thoughts
 ---
 
-# Dear morons...
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# i made a blog
+i know blogs aren't really popular anymore but i wanted a place to share projects and more that i was too lazy to put on youtube. hopfully jekyll doesn't crap itself and it works out but yeah. ill just post projects and other stuff here mianly to showcase whatever i'm doing.
 
-## Another title
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+## a cool project i'm working on rn
+so since i'm a little bored from school but still too lazy to make a damn youtube video (lol) i've been working on a upgrade for my ipod and its looking pretty good! i'm using a elite obsolete electronics ipod shell with the moonlit market bluetooth and classic connect mod. i also used their storage mod so we'll see how that goes. overall i'm very excited to see how this turns out. at the moment i just need to tape it up. i'll make another post when i get it working.
+
+![image 1 of modding ipod in progress](../_assets/blogs/ipod1.jpg)
+![image 2 of modding ipod in progress](../_assets/blogs/ipod2.jpg)
