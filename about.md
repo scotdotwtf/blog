@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 # me
-[photo of a butterfly, by me. please dont steal lol.](https://github.com/scotdotwtf/blog/blob/main/_assets/me.jpg)
+![photo of a butterfly, by me. please dont steal lol.](https://github.com/scotdotwtf/blog/blob/main/_assets/me.jpg?raw=true)
 
 hey my names scot. i dabble in music, video editing, programming, and some more stuff. i love modding my electronics. oh yeah i also do some photography, at some point ill add a tab for that on my website.
 
