@@ -11,5 +11,5 @@ i know blogs aren't really popular anymore but i wanted a place to share project
 ## a cool project i'm working on rn
 so since i'm a little bored from school but still too lazy to make a damn youtube video (lol) i've been working on a upgrade for my ipod and its looking pretty good! i'm using a elite obsolete electronics ipod shell with the moonlit market bluetooth and classic connect mod. i also used their storage mod so we'll see how that goes. overall i'm very excited to see how this turns out. at the moment i just need to tape it up. i'll make another post when i get it working.
 
-![image 1 of modding ipod in progress](https://github.com/scotdotwtf/blog/blob/main/_assets/blogs/ipod1.jpg?raw=true)
-![image 2 of modding ipod in progress](https://github.com/scotdotwtf/blog/blob/main/_assets/blogs/ipod2.jpg?raw=true)
+<img src='https://github.com/scotdotwtf/blog/blob/main/_assets/blogs/ipod1.jpg?raw=true' alt='image 1 of ipod modding process'>
+<img src='https://github.com/scotdotwtf/blog/blob/main/_assets/blogs/ipod2.jpg?raw=true' alt='image 2 of ipod modding process'>
