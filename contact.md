@@ -5,4 +5,5 @@ permalink: /contact
 ---
 
 # wanna email me?
+
 > ill put a email later

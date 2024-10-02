@@ -1,4 +1,6 @@
-title: 'blog.scot.wtf'
+include: ["assets"]
+
+title: "blog.scot.wtf"
 description: "projects, ideas, and more."
 url: "https://scotdotwtf.github.io"
 domain: blog.scot.wtf
@@ -8,10 +10,12 @@ header_pages:
   - about.md
   - contact.md
 
-style: light 
+style: light
 
 footer: 'follow me on <a href="https://twitter.com/catslovejungle">twitter</a>, <a href="https://catslovejungle.bandcamp.com/">bandcamp</a>, or <a href="https://scot.wtf/">more</a>'
 
 # Build settings
 markdown: kramdown
 remote_theme: b2a3e8/jekyll-theme-console
+
+safe: false
