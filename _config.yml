@@ -18,4 +18,5 @@ footer: 'follow me on <a href="https://twitter.com/catslovejungle">twitter</a>, 
 markdown: kramdown
 remote_theme: b2a3e8/jekyll-theme-console
 
-safe: false
+plugins:
+  - jekyll-postfiles

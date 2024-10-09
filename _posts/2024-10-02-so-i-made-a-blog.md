@@ -13,6 +13,8 @@ i know blogs aren't really popular anymore but i wanted a place to share project
 
 so since i'm a little bored from school but still too lazy to make a damn youtube video (lol) i've been working on a upgrade for my ipod and its looking pretty good! i'm using a elite obsolete electronics ipod shell with the moonlit market bluetooth and classic connect mod. i also used their storage mod so we'll see how that goes. overall i'm very excited to see how this turns out. at the moment i just need to tape it up. i'll make another post when i get it working.
 
-![image of ipod mod from the front]({{ site.baseurl }}/assets/blogs/ipod1.jpg){: width="100%" }
+![image of ipod mod from the front]({{ site.baseurl }}/assets/post/{{ page.date | date: "%Y-%m-%d" }}/ipod1.jpg){: width="100%" }
 
-![image of ipod mod from the back]({{ site.baseurl }}/assets/blogs/ipod2.jpg){: width="100%" }
+![image of ipod mod from the back]({{ site.baseurl }}/assets/post/{{ page.date | date: "%Y-%m-%d" }}/ipod2.jpg){: width="100%" }
+
+![SCOTDOTWTF]({{ site.baseurl }}/assets/post/{{ page.date | date: "%Y-%m-%d" }}/SCOTDOTWTF.jpg){: width="100%" } 
