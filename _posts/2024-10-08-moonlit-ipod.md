@@ -32,6 +32,7 @@ Okay so some of my problems with it start with how it's kept in its case:
 The way you mount the frontplate and components to the custom case is by gluing it. This, I feel, is really the downfall of this mod because while it's super good in a lot of areas the gluing part just never allows it to fully feel sturdy. It's not a dealbreaker though.
 
 I did have a problem with my SD card, or my audio files. Basically I restored my iPod after transfering my library from my hard drive and pretty recently I've noticed some static and skipping on lots of my tracks. Half of me beleives this is just the fact that I converted all my flacs to ALAC (dont do this 💀) but they play fine on my computer and I just can't really tell. If I had to guess I would say that I probably need to reformat the SD card or use a different one as this one may be corrupted but I'll update yall if I find out anything.
+**\_ UPDATE: This seems to be a card issue, my other card is working perfectly fine. The ImCort SD card reader rocks!**
 
 ![ipod hooked up to SP404]({{ site.baseurl }}/assets/post/{{ page.date | date: "%Y-%m-%d" }}/fullsetup.jpg){: width="100%" } 
 
